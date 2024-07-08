@@ -1,4 +1,4 @@
 # 1st-github
 This is my first repository
 <br>
-Author-Muhammad Daniyal Zaki
+Author- Muhammad Daniyal Zaki
